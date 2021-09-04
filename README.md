@@ -7,7 +7,7 @@ this is everything you need to get the bot up and running
 git clone https://github.com/ChokunPlayZ/octoprint-discord-bot.git
 ```
 ## Prepareing the Enviorment
-This bot requires on Discord JS v13 which provides better performance so these are the requirements
+This bot requires Discord JS v13 which provides better performance so these are the requirements
 
  - NodeJS v16 or later
  - Discord JS v13 or later
