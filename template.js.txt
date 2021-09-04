@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
 const axios = require('axios');
 module.exports = {
-    name: '',
-    description: '',
+    name: 'command name here',
+    description: 'also a discription while you're at it',
     async execute (config, client, message, args){
-        
+        // its a async function already so don't worry about it
     }
 };
