@@ -58,6 +58,7 @@ to get octoprint API key head to your Octoprint Instence
  3. then copy the API key
  
 *for the IP you just need to enter the IP remove "http://" or it will break
+
 *the printer name cannot contain spaces or it will mess up the config file
 then send the message
 the bot will attempt to connect to your octoprint instence and get it's version and other data
