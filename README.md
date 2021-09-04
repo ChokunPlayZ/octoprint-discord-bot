@@ -7,25 +7,26 @@ this is everything you need to get the bot up and running
 git clone https://github.com/ChokunPlayZ/octoprint-discord-bot.git
 ```
 ## Prepareing the Enviorment
-This bot requires Discord JS v13 which provides better performance so these are the requirements
+This bot requires on Discord JS v13 which provides better performance so these are the requirements
 
  - NodeJS v16 or later
  - Discord JS v13 or later
  - any OS will be fine you can also run it on your octopi just install node!
  
  These are the require packages
+ - Axios  
+ - fs  
+ - colour  
+ - discord.js
 
-     Axios
-     fs
-     colour
-     discord.js
 you can install it using only one command just run
 
-    npm -i axios discord.js colour
+`npm -i axios discord.js colour`
+
   this will take care of the packages
   
 
-    * you cant use discord.js 12 because it changes how the API handles Embeds
+`* you cant use discord.js 12 because it changes how the API handles Embeds`
 
 ## Configure the bot
 you can follow a great tutorial people at [discordjs.guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html) has made
@@ -49,7 +50,7 @@ This bot support multiple printers you can add them as much as you need!
 
 in your server text channel that the bot have access to type this following command
 
-    -op add <your printer name> <your printer IP Address> <and your API Key>
+`-op add <your printer name> <your printer IP Address> <and your API Key>`
 
 to get octoprint API key head to your Octoprint Instence
 
@@ -62,8 +63,9 @@ to get octoprint API key head to your Octoprint Instence
  then send the message
  the bot will attempt to connect to your octoprint instence and get it's version and other data
  if the bot can't reach your octoprint instence it will trow an error
+ 
  ## Using the commands
- now not that many commands are implmented yet because I just finish this in 4 days
+ now not that many commands are implmented yet  I will add more soon!
  the default prefix is
     `-op`
 so if you didn't change the prefix in `config.json` this is what it will be
