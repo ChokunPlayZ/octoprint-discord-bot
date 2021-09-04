@@ -15,7 +15,6 @@ This bot requires on Discord JS v13 which provides better performance so these a
  
  These are the require packages
  - Axios  
- - fs  
  - colour  
  - discord.js
 
@@ -58,11 +57,11 @@ to get octoprint API key head to your Octoprint Instence
  2. click on API under the feature section
  3. then copy the API key
  
- *for the IP you just need to enter the IP remove "http://" or it will break
- *the printer name cannot contain spaces or it will mess up the config file
- then send the message
- the bot will attempt to connect to your octoprint instence and get it's version and other data
- if the bot can't reach your octoprint instence it will trow an error
+*for the IP you just need to enter the IP remove "http://" or it will break
+*the printer name cannot contain spaces or it will mess up the config file
+then send the message
+the bot will attempt to connect to your octoprint instence and get it's version and other data
+if the bot can't reach your octoprint instence it will trow an error
  
  ## Using the commands
  now not that many commands are implmented yet  I will add more soon!
