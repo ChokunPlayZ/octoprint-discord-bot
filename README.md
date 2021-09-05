@@ -20,7 +20,9 @@ This bot requires on Discord JS v13 which provides better performance so these a
 
 you can install it using only one command just run
 
-`npm -i axios discord.js colour`
+```
+npm -i axios discord.js colour
+```
 
   this will take care of the packages
   
@@ -49,7 +51,9 @@ This bot support multiple printers you can add them as much as you need!
 
 in your server text channel that the bot have access to type this following command
 
-`-op add <your printer name> <your printer IP Address> <and your API Key>`
+```
+-op add <your printer name> <your printer IP Address> <and your API Key>
+```
 
 to get octoprint API key head to your Octoprint Instence
 
@@ -67,7 +71,7 @@ if the bot can't reach your octoprint instence it will trow an error
  ## Using the commands
  now not that many commands are implmented yet  I will add more soon!
  the default prefix is
-    `-op`
+    ```-op```
 so if you didn't change the prefix in `config.json` this is what it will be
  run`<prefix> help` to get all the command available at the time
  
