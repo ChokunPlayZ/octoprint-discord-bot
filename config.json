@@ -2,6 +2,6 @@
     "prefix": "-op",
     "token": "put token here",
     "ownerid": "your user id",
-	"restricttoowner": true,
-    "READ THE DOCS IF YOU DONT UDERSTAND": "READ THE DOCS IF YOU DONT UDERSTAND"
+    "restricttoowner": true,
+    "READ THE DOCS IF YOU DONT UDERSTAND": "https://github.com/ChokunPlayZ/octoprint-discord-bot"
 }
