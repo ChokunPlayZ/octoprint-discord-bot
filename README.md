@@ -44,7 +44,7 @@ you can follow a great tutorial people at [discordjs.guide](https://discordjs.gu
 9.1. if you get an `TOKEN_INVALID` error go back and check number 3
 10. you have set up your code 
 11. invite the bot to your server, follow this awsome guide from [discordjs.guide](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links)
-11.1. the bot require text permission  this is my [recomended permission value](https://discordapi.com/permissions.html#519232)
+ 11.1. the bot require text permission  this is my [recomended permission value](https://discordapi.com/permissions.html#519232)
 12. now you're set
 ## Add your printer(s)
 This bot support multiple printers you can add them as much as you need!
