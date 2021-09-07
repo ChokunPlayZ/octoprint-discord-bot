@@ -24,4 +24,5 @@ any recomendations is very welcome
  - [ ] Webcam Streaming to Voice Channel
  - [ ] get raspberry pi temperature (you may need a plugin)
  - [ ] smart plug support (intregated with Octoprint or Homeassistant) (maybe Tasmota Intregation)
+ - [ ] update Alert (still need to figure out how to do it once I can it would be very useful)
 
