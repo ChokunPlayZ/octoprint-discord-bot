@@ -17,8 +17,8 @@ you can request a feature in the issue section
 any recomendations is very welcome
 
 **To-do List**
- - [ ] Show printing status in status command (or a seperate command)
- - [ ] change the printer selector to button (name can be hard to remember)
+ - [x] Show printing status in status command (or a seperate command)
+ - [x] change the printer selector to button (name can be hard to remember)
  - [ ] change The Database to SQLite so you can store more data
  - [ ] pause / stop print from your discord text channel (start print can be dangerous so big NO)
  - [ ] Webcam Streaming to Voice Channel
