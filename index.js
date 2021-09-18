@@ -53,8 +53,6 @@ client.on('messageCreate', async (message) => {
     const args = message.content.slice(config.prefix.length).trim().split(/ +/);
     const command = args.shift().toLowerCase();
 
-    message.delete()
-
     if (config.restricttoowner == true) {
         if (!message.member.id == config.ownerid) {
             message.channel.send({ embeds: [
@@ -73,6 +71,7 @@ client.on('messageCreate', async (message) => {
 
     if (!client.commands.has(command)) return;
     try{
+        message.delete()
         client.commands.get(command).execute(config ,client, message, args);
     } catch (error) {
         console.error(error);
