@@ -9,7 +9,7 @@ I've moved all the documentations to the [wiki](https://github.com/ChokunPlayZ/o
 Features
 
  - Multiple Printers
- -  get printers status
+ - get printers status / print job progress
  - get webcam still shot
 
 I will update more in the future 
@@ -21,7 +21,7 @@ any recomendations is very welcome
  - [x] change the printer selector to button (name can be hard to remember)
  - [ ] change The Database to SQLite so you can store more data
  - [ ] pause / stop print from your discord text channel (start print can be dangerous so big NO)
- - [ ] Webcam Streaming to Voice Channel
+ - [ ] Webcam Streaming to Voice Channel (it's impossible due to API limitations, i will add it as soon as discord allows it)
  - [ ] get raspberry pi temperature (you may need a plugin)
  - [ ] smart plug support (intregated with Octoprint or Homeassistant) (maybe Tasmota Intregation)
  - [ ] update Alert (still need to figure out how to do it once I can it would be very useful)
