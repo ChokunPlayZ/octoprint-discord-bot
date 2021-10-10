@@ -23,5 +23,5 @@ any recomendations is very welcome
  - [ ] pause / stop print from your discord text channel (start print can be dangerous so big NO)
  - [ ] Webcam Streaming to Voice Channel (it's impossible due to API limitations, i will add it as soon as discord allows it)
  - [ ] get raspberry pi temperature (you may need a plugin)
- - [ ] smart plug support (intregated with Octoprint or Homeassistant) (maybe Tasmota Intregation)
+ - [ ] smart plug support (intregated with Octoprint or Homeassistant) (Comfirmed: I got PSU Control Plugin working I'm working on it!)
  - [ ] update Alert (still need to figure out how to do it once I can it would be very useful)
